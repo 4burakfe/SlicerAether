@@ -5,6 +5,9 @@ This extension allows users to utilize SwinUNETR and UNET models to segment mult
 **Version**: 1.0  
 **Contact**: 4burakfe@gmail.com
 
+[![You can watch the module in action from here](https://img.youtube.com/vi/PFSEcLBYJf4/maxresdefault.jpg)](https://youtu.be/PFSEcLBYJf4)
+
+
 ## How To Install
 
 This extension is not currently on Extension Manager of the 3D Slicer but can be installed manually.
