@@ -222,7 +222,7 @@ class AetherWidget(ScriptedLoadableModuleWidget):
 
         self.denoise_block_size = qt.QLineEdit()
         self.denoise_block_size.setText("(96,96,96)")
-        formLayout.addRow("Block Size for denoising:", self.denoise_block_size)
+        formLayout.addRow("Block Size for segmentation:", self.denoise_block_size)
 
 
 
