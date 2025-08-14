@@ -8,17 +8,25 @@ This extension allows users to utilize SwinUNETR and UNET models to segment mult
 ## How To Install
 
 This extension is not currently on Extension Manager of the 3D Slicer but can be installed manually.
+
 For installation download this repository and extract the zip folder. 
+
 Then in the 3D Slicer go to Edit->Application Settings->Modules->Additional Module Paths
+
 Here click >> button and manually add Aether folder.
 
 SlicerAether requires Pytorch to be installed to operate. 
+
 You can install it from extension manager with PyTorchUtils extension.
+
 If Pytorch Utils is not installed the module will not be shown.
+
 It is highly recommended to have CUDA capable GPU and if so be sure you have installed CUDA enabled version of Pytorch.
 
 You can train your own models with scripts provided here: [https://github.com/4burakfe/Claritas ](https://github.com/4burakfe/Claritas/tree/main/Segmentation%20Edition)
-This repository also contains pretrained models to segment liver and its tumors with FDG PET/CT ready for use: https://github.com/4burakfe/SlicerAether/releases/tag/Trained_Models
+
+This link contains pretrained models to segment liver and its tumors with FDG PET/CT ready for use: https://github.com/4burakfe/SlicerAether/releases/tag/Trained_Models
+
 You can test this module with the cases in here: https://github.com/4burakfe/SlicerAether/releases/tag/Sample_Cases
 
 ## Usage
