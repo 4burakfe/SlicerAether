@@ -5,6 +5,7 @@ This extension allows users to utilize SwinUNETR and UNET models to segment mult
 **Version**: 1.0  
 **Contact**: 4burakfe@gmail.com
 
+You can watch the module in action by clicking the image below:
 [![You can watch the module in action from here](https://img.youtube.com/vi/PFSEcLBYJf4/maxresdefault.jpg)](https://youtu.be/PFSEcLBYJf4)
 
 
