@@ -24,7 +24,7 @@ class Aether(ScriptedLoadableModule):
         This file was developed by Burak Demir.
         """
         # **✅ Set the module icon**
-        iconPath = os.path.join(os.path.dirname(__file__), "logo.png")
+        iconPath = os.path.join(os.path.dirname(__file__), "Resources", "Icons", "Aether.png")
         self.parent.icon = qt.QIcon(iconPath)  # Assign icon to the module
         self.parent = parent
 
